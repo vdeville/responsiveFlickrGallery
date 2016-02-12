@@ -20,7 +20,7 @@
 <body>
 <div class="container-fluid" id="responsiveGallery">
     <div class="row">
-        <?php echo displayAlbum(getAlbumsIDs("140096212@N07"), "140096212@N07") ?>
+        <?php echo displayAlbum(getAlbumsIDs("134924252@N08"), "134924252@N08") ?>
     </div>
 </div>
 
