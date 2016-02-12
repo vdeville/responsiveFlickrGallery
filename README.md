@@ -35,3 +35,7 @@ define ("apiKey", "YOUR API KEY");
 * ###### PHP
 * ###### Bootsrap
 * ###### Flickr Account with public profil
+
+
+
+###### Mention if use is appreciated ;)
